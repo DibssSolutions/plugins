@@ -1,4 +1,4 @@
 # ----------------------- PLUGINS -----------------------
 
 # select
-[examples](https://developer.snapappointments.com/bootstrap-select/examples/)
+[Examples simple/multiple](https://developer.snapappointments.com/bootstrap-select/examples/)
